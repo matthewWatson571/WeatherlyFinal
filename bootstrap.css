@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+
+  background-color : #ff2a54;
+     position : fixed;
+    background-size : cover;
+}
+
+img {
+  border-radius : 15px;
+}
+
+.col-md-4 {
+  padding : 10px;
+}
+
+.container {
+  text-align : center;
+  margin : auto;
+  padding-bottom: 20px 
+}
+
+#shell {
+    background-color : #00d0ff;
+    height : 700px;
+    border-radius : 15px;
+    color : white;
+    font-weight : bold;
+}
+ul {
+    position : absolute;
+    text-align : center;
+    top : 40px;
+    list-style : none;
+    color : black;
+    font-size : 20px;
+    width : 100%;
+    font-weight : bold;
+}
+
+li {
+    padding : 10px;
+}
